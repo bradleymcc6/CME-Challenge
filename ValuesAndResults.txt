@@ -1,0 +1,5 @@
+
+banana,ananaa:false
+banana,ananab:true
+run,ru:false
+laptop,potpal:true
